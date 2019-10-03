@@ -1,0 +1,60 @@
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\LinqToEntity.exe.config
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.Form1.resources
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.Properties.Resources.resources
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.csproj.GenerateResource.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-ecc657dfe49f905e6905c4b2f94a4b077a7c25e2\LinqToEntity\obj\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\LinqToEntity.exe.config
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.Form1.resources
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.Properties.Resources.resources
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.csproj.GenerateResource.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BurakYılmaz\LinqToEntity\obj\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\LinqToEntity.exe.config
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.Form1.resources
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.Properties.Resources.resources
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csproj.GenerateResource.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\LinqToEntity.exe.config
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\LinqToEntity.pdb
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.Form1.resources
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.Properties.Resources.resources
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csproj.GenerateResource.cache
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.exe
+C:\Users\altan\OneDrive\Masaüstü\Çeşitli Projeler\LinqToEntity-BY-Altan Emre\LinqToEntity\obj\Debug\LinqToEntity.pdb
